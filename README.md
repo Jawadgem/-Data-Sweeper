@@ -40,10 +40,6 @@ streamlit run app.py
 ## 🤝 Contributing
 If you’d like to contribute, feel free to **fork the repository** and submit a **pull request**. Suggestions and improvements are always welcome!
 
-## 🔗 Connect with Us
-- 🌐 **Website:** [YourWebsite.com](#)
-- 📧 **Email:** contact@example.com
-
 ---
 🚀 **Made with 🔥 by Jawad Nasir**
 
